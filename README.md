@@ -30,10 +30,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/knex-%23316192.svg?&style=for-the-badge&logo=knex&logoColor=red)
 ![](https://img.shields.io/badge/miro-%23316192.svg?&style=for-the-badge&logo=miro&logoColor=black)
 ![](https://img.shields.io/badge/bootstrap-%23316192.svg?&style=for-the-badge&logo=bootstrap&logoColor=purple)
-![](https://img.shields.io/badge/java-%23316192.svg?&style=for-the-badge&logo=java&logoColor=blue)
-![](https://img.shields.io/badge/matlab-%23316192.svg?&style=for-the-badge&logo=matlab&logoColor=orange)
-
-
+![](https://img.shields.io/badge/Java-%23316192.svg?&style=for-the-badge&logo=java&logoColor=blue)
+![](https://img.shields.io/badge/MATLAB-%23316192.svg?&style=for-the-badge&logo=matlab&logoColor=orange)
 
 
 
