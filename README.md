@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about software development and testing
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/hayat-adeyemo-4a049034/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatu4islam)](https://github.com/hayatu4islam/github-readme-stats)
