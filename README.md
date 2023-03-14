@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently attending a bootcamp on modern software development at CodeYourFuture
-- 🌱 I’ve completed a data science bootcamp at TechTalent Academy Ltd.
-- :mortar_board: I’m currently pursuing a PhD in Computer Science at the University of Birmingham :gb:.
-- 🤔 I’m looking for a collaborative researcher on testing of complex systems.
+- ✅ I’ve completed a data science 📊 📈 bootcamp at TechTalent Academy Ltd.
+- 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham 🇬🇧:.
+- 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
 - 💬 Ask me about software development and testing
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/hayat-adeyemo-4a049034/
 
-![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatu4islam&hide=contribs,prs)
+![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatu4islam)
