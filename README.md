@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 
 ## &#x1f4c8; GitHub Stats
 
-![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatu4islam)
+![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatu4islam&show_icons=true&theme=calm)
