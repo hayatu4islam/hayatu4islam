@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently attending a bootcamp <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="30"> on modern software development at CodeYourFuture
 - 💻 I am a seasoned JavaScript developer.
 - ✅ I’ve completed a data science 📊 📈 bootcamp at TechTalent Academy Ltd.
-- 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham 🇬🇧:.
+- 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham :GB:
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
 - 💬 Ask me about software development and testing
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hayat-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hayat/](https://www.linkedin.com/in/hayat-adeyemo-4a049034/))
