@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/hayat-adeyemo-4a049034/
 
 ## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatu4islam)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatu4islam&hide_progress=true)
 
 ## &#x1f4c8; GitHub Stats
 
