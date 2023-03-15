@@ -6,3 +6,4 @@ def highestNumber(a, b, c):
   if result < c:
     result = c
   return result
+print(highestNumber(3, 7, 5))
