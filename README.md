@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently attending a bootcamp <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="30"> on modern software development at CodeYourFuture
-- 💻 I am a seasoned JavaScript developer.
+- 🔭 I am a seasoned JavaScript developer.
+- 💻 I attended a bootcamp on modern web 💻 development at CodeYourFuture
 - ✅ I’ve completed a data science 📊 📈 bootcamp at TechTalent Academy Ltd.
 - 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham, 🇬🇧
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
