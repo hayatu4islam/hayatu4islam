@@ -1,3 +1,5 @@
+<p align="center"><img width="95%" height="300px" src="https://github.com/hayatu4islam/hayatu4islam/blob/main/github_banner.jpg" /></p>
+
 ### Hi, I am Hayat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <!--
@@ -13,6 +15,7 @@ Here are some ideas to get you started:
 - 💡 I am learning Modern C++.
 - 💬 Ask me about software development and testing.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hayat-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hayat/](https://www.linkedin.com/in/hayat-adeyemo-4a049034/))
+- 💻 + ☕ = </>
 
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatu4islam&hide_progress=true)
