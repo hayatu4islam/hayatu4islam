@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
 - 💡 I am learning Modern C++.
 - 💬 Ask me about software development and testing.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hayat-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hayat/](https://www.linkedin.com/in/hayat-adeyemo-4a049034/))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hayat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayat-adeyemo-4a049034/)
 - 💻 + ☕ = </>
 
 ## Skills
