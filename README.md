@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatu4islam&hide_progress=true)
 
+### ⚙ Here are my Codewars stats:
+
+<img src= "https://www.codewars.com/users/hayatu4islam/badges/micro" width= "200"/> 
+
+
 ## My Tools Stack
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
