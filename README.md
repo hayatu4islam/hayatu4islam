@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I am a seasoned JavaScript developer.
 - 💻 I attended a bootcamp on modern web 💻 development at CodeYourFuture
 - ✅ I’ve completed a data science 📊 📈 bootcamp at TechTalent Academy Ltd.
-- 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham, 🇬🇧
+<!-- - 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham, 🇬🇧 -->
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
 - 💡 I am learning Modern C++.
 - 💬 Ask me about software development and testing.
