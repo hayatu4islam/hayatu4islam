@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I am a seasoned JavaScript developer.
-- 💻 I attended a bootcamp on modern web 💻 development at CodeYourFuture and completed a data science bootcamp at TechTalent Academy
+- 💻 I attended bootcamps on modern web 💻 development and data science at CodeYourFuture TechTalent Academy respectively.
 <!-- - 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham, 🇬🇧 -->
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
 - 💡 I am learning Modern C++.
