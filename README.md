@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💻 I attended bootcamps on modern web 💻 development and data science at CodeYourFuture and TechTalent Academy respectively.
 <!-- - 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham, 🇬🇧 -->
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
-- 💡 I am learning Modern C++.
+- 💡 I am learning modern C++.
 - 💬 Ask me about software development and testing.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hayat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayat-adeyemo-4a049034/)
 - 💻 + ☕ = </>
