@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hayat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayat-adeyemo-4a049034/)
 - 💻 + ☕ = </>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatu4islam" alt="hayatu4islam" /> </p>
+
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatu4islam&hide_progress=true)
 
