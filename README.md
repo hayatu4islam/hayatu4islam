@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am a seasoned Web developer!.
+- 🔭 I am a seasoned Software developer!.
 <!-- - 💻 I attended bootcamps on modern web 💻 development and data science at CodeYourFuture and TechTalent Academy respectively.-->
 - 🎓 I’m currently pursuing a PhD in Computer Science at the University of Birmingham, 🇬🇧
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
