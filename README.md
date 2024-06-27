@@ -7,9 +7,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am a seasoned Software developer and a data science enthusiast!.
+- 🔭 I am a seasoned Software developer and a data science enthusiast with passion in cybersecurity!.
 <!-- - 💻 I attended bootcamps on modern web 💻 development and data science at CodeYourFuture and TechTalent Academy respectively.-->
-- 🎓 PhD Researcher in Computer Science at the University of Birmingham, 🇬🇧
+<!-- - 🎓 PhD Researcher in Computer Science at the University of Birmingham, 🇬🇧
 - 💖 I am passionate about writing python codes, I like to be Pythonic 🐍.
 <!-- - 💡 I am learning modern C++.-->
 - 💬 Ask me about software engineering and data analytics.
